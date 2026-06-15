@@ -22,9 +22,9 @@ export default function Header() {
       <nav className="max-w-section mx-auto px-6 md:px-8 h-16 flex items-center justify-between">
         <Link
           href="#"
-          className="text-lg font-bold tracking-tight text-primary dark:text-dark-text"
+          className="flex items-center"
         >
-          ZA
+          <img src="/favicon.svg" alt="Z" className="h-8 w-8" />
         </Link>
 
         <div className="flex items-center gap-6">

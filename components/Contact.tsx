@@ -12,7 +12,7 @@ export default function Contact() {
 
         <div className="flex flex-wrap gap-4">
           <a
-            href="mailto:zihniaryanto00@gmail.com"
+            href="https://mail.google.com/mail/?view=cm&fs=1&to=zihniaryanto00@gmail.com"
             className="button-primary"
           >
             Email Me
@@ -26,7 +26,7 @@ export default function Contact() {
             LinkedIn
           </a>
           <a
-            href="https://github.com/zihniaryanto"
+            href="https://github.com/Zihniii"
             target="_blank"
             rel="noopener noreferrer"
             className="button-secondary"
