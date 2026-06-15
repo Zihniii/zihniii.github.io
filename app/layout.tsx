@@ -4,7 +4,7 @@ import { ThemeProvider } from '@/components/ThemeProvider';
 import Header from '@/components/Header';
 
 export const metadata: Metadata = {
-  title: 'Zihni Aryanto Putra Buana | Business & Data Analyst Portfolio',
+  title: 'Zihni Aryanto | Business & Data Analyst Portfolio',
   description:
     'Information Systems student focused on data analytics, business analysis, strategic planning, digital transformation, and product development.',
   keywords: [
