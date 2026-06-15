@@ -26,7 +26,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    title: 'Zihni Aryanto Putra Buana | Business & Data Analyst Portfolio',
+    title: 'Zihniii\'s Portfolio',
     description:
       'Information Systems student focused on data analytics, business analysis, strategic planning, digital transformation, and product development.',
     siteName: 'Zihni Aryanto Putra Buana',
