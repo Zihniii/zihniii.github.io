@@ -20,6 +20,9 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: 'Zihni Aryanto Putra Buana' }],
   creator: 'Zihni Aryanto Putra Buana',
+  icons: {
+    icon: '/favicon.svg',
+  },
   openGraph: {
     type: 'website',
     locale: 'en_US',
